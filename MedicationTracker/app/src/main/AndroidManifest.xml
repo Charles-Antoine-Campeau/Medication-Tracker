@@ -19,6 +19,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".Alarms" />
+        <activity android:name=".MedicationList" />
+        <activity android:name=".Settings" />
     </application>
 
 </manifest>
