@@ -11,7 +11,7 @@
         android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
 
         <activity
-            android:name=".MainActivity"
+            android:name=".layoutcode.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -19,9 +19,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".Alarms" />
-        <activity android:name=".MedicationList" />
-        <activity android:name=".Settings" />
+        <activity android:name=".layoutcode.Alarms" />
+        <activity android:name=".layoutcode.MedicationList" />
+        <activity android:name=".layoutcode.Settings" />
     </application>
 
 </manifest>
