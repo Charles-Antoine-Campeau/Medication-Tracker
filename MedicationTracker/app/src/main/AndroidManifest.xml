@@ -23,6 +23,7 @@
         <activity android:name=".layoutcode.MedicationList" />
         <activity android:name=".layoutcode.Settings" />
         <activity android:name=".layoutcode.CreateMedication"/>
+        <activity android:name=".layoutcode.EditMedication"/>
     </application>
 
 </manifest>
